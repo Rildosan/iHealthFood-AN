@@ -25,23 +25,23 @@ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que es
 Para você exercitar suas habilidades de Análise de Negócio propomos 5 desafios: 
 
 **Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
-Demonstra como a solução posssibita a captura de valor pela empresa<BR>
+Modelo de negócio demonstra como a solução posssibita a captura de valor gerado pela solução pela empresa<BR>
 [Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
 [Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)<BR>
 
 **Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
-Mostra como a solução entregará valor para os clientes<BR>
+Canvas mostra como a solução entregará valor para os clientes<BR>
 [Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
 [Exemplo de Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorExemplov1.pdf)<BR>
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
-Especificação das Regras de Negócio que moldam o comportamento de negócio na geração de valor<BR>
+Regras de Negócio moldam o comportamento de negócio da solução na geração de valor<BR>
 [Template de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioTemplatev1.pdf) <BR>
 [Exemplos de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioExemplos.pdf)<BR>
 
-**Desafio-4 - Construção do Backlog da Solução**<BR>
-Elaborar o Backlog da Solução. A lista de funcionalidades devem estar agrupadas por temas e priorizadas. <BR>
+**Desafio-4 - Desenvolvimento do Backlog da Solução**<BR>
+O Backlog é uma lista com todas as funcionalidades da solução, elas devem estar agrupadas por temas e priorizadas. <BR>
 [Exemplos Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
-**Desafio-5 – Plano de Release de Versões**<BR>
-Desenvolver o Plano de Release de Versões para mostrar como a solução será construida e entregue as versões.
+**Desafio-5 – Elaboração do Plano de Release**<BR>
+Plano de Release mostra como a solução será construida e entregue as versões.
