@@ -10,13 +10,14 @@ Antes de fazer os desafios leia e entenda a visão do serviço. A visão ou esco
 **Para pessoas que tem intolerância a glúten e/ou lactose o iHealthFood é um serviço de entrega exclusivo através de aplicativo móvel e web, intuitivo, seguro e fácil de usar que oferece a possibilidade de encontrar os melhores restaurantes que fornecem comidas e pratos deliciosos sem glúten e sem lactose.Diferente de outros, nosso serviço é dedicado para clientes que se necessitam comprar alimentos sem glúten e sem lactose.**
 
 Recomendamos a leitura dos arefatos de negócio, eles devem ser totalmente compreendidos, os artefatos estão na pasta __Negócio__:
-**Visão de Negócio:***
+<BR>
+**Visão de Negócio:*** <BR>
 - **Business Story**: Declaração do Problema 
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 
-**Visão de Pessoas:***
-Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta Pessoas:
+**Visão de Pessoas:*** <BR>
+Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta Pessoas: <BR>
 - **Mapa da Jornada do Usuário**
 - **Mapa de Personas**
 - **Lista de Pessoas Interessadas**
