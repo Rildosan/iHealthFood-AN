@@ -9,14 +9,14 @@ Antes de fazer os desafios leia e entenda a visão do serviço. A visão ou esco
 # Visão do iHealthFood:
 **Para pessoas que tem intolerância a glúten e/ou lactose o iHealthFood é um serviço de entrega exclusivo através de aplicativo móvel e web, intuitivo, seguro e fácil de usar que oferece a possibilidade de encontrar os melhores restaurantes que fornecem comidas e pratos deliciosos sem glúten e sem lactose.Diferente de outros, nosso serviço é dedicado para clientes que se necessitam comprar alimentos sem glúten e sem lactose.**
 
-**Visão de Negócio:*** <BR>
+**Visão de Negócio:** <BR>
 Recomendamos a leitura dos arefatos de negócio, eles devem ser totalmente compreendidos, os artefatos estão na pasta __Negócio__:
 
 - **Business Story**: Declaração do Problema 
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 
-**Visão de Pessoas:*** <BR>
+**Visão de Pessoas:** <BR>
 Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta Pessoas: <BR>
 - **Mapa da Jornada do Usuário**
 - **Mapa de Personas**
@@ -27,14 +27,14 @@ Para você exercitar suas habilidades de Análise de Negócio propomos 5 desafio
 **Desafio-1 – Modelo de Negócio da Solução:** 
 Construir Modelo de Negócio da Solução para demonstrar como a empresa captura o valor gerado pela solução
 
-**Desafio-2 – Canvas de Proposta de Valor***
+**Desafio-2 – Canvas de Proposta de Valor**
 Elaborar o Canvas de Proposta de Valor para mostrar como a soluçãop entrega valor para os clientes
 
-**Desafio-3 – Listas das principais Regras de Negócio***
+**Desafio-3 – Listas das principais Regras de Negócio**
 Especificar as principais regras de negócio, elas moldam o comportamento da solução.
 
-**Desafio-4 – Backlog da Solução***
+**Desafio-4 – Backlog da Solução**
 Elaborar o Backlog da Solução. A lista de funcionalidades devem estar agrupadas por temas e priorizadas
 
-**Desafio-5 – Plano de Release de Versões***
+**Desafio-5 – Plano de Release de Versões**
 Desenvolver o Plano de Release de Versões para mostrar como a solução será construida e entrega as versões.
