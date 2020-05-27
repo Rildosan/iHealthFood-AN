@@ -24,17 +24,24 @@ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que es
 
 Para você exercitar suas habilidades de Análise de Negócio propomos 5 desafios: 
 
-**Desafio-1 – Modelo de Negócio da Solução:** 
-Construir Modelo de Negócio da Solução para demonstrar como a empresa captura o valor gerado pela solução
+**Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
+Demonstra como a solução posssibita a captura de valor pela empresa<BR>
+[Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
+[Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)<BR>
 
-**Desafio-2 – Canvas de Proposta de Valor**
-Elaborar o Canvas de Proposta de Valor para mostrar como a soluçãop entrega valor para os clientes
+**Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
+Mostra como a solução entregará valor para os clientes<BR>
+[Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
+[Exemplo de Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorExemplov1.pdf)<BR>
 
-**Desafio-3 – Listas das principais Regras de Negócio**
-Especificar as principais regras de negócio, elas moldam o comportamento da solução.
+**Desafio-3 - Especificação de Regras de Negócio**<BR>
+Especificação das Regras de Negócio que moldam o comportamento de negócio na geração de valor<BR>
+[Template de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioTemplatev1.pdf) <BR>
+[Exemplos de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioExemplos.pdf)<BR>
 
-**Desafio-4 – Backlog da Solução**
-Elaborar o Backlog da Solução. A lista de funcionalidades devem estar agrupadas por temas e priorizadas
+**Desafio-4 - Construção do Backlog da Solução**<BR>
+Elaborar o Backlog da Solução. A lista de funcionalidades devem estar agrupadas por temas e priorizadas. <BR>
+[Exemplos Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
-**Desafio-5 – Plano de Release de Versões**
-Desenvolver o Plano de Release de Versões para mostrar como a solução será construida e entrega as versões.
+**Desafio-5 – Plano de Release de Versões**<BR>
+Desenvolver o Plano de Release de Versões para mostrar como a solução será construida e entregue as versões.
