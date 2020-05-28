@@ -44,5 +44,5 @@ O Backlog é uma lista com todas as funcionalidades da solução, elas devem est
 [Exemplo Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
 **Desafio-5 – Elaboração do Plano de Release**<BR>
-Plano de Release mostra como a solução será construida e entregue ao longo do tempo.
+Plano de Release mostra como a solução será construida e entregue ao longo do tempo.<BR>
 [Template do Plano de Release](http://www.etecnologia.com.br/jornada/projeto-ihf/PlanodeReleaseTemplatev1.pdf) <BR>
