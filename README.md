@@ -26,12 +26,12 @@ Para você exercitar suas habilidades de Análise de Negócio propomos 5 desafio
 
 **Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
 Modelo de negócio demonstra como a solução posssibita a captura de valor gerado pela solução pela empresa<BR>
-[Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
+[Template do Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
 [Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)<BR>
 
 **Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
 Canvas mostra como a solução entregará valor para os clientes<BR>
-[Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
+[Template do Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
 [Exemplo de Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorExemplov1.pdf)<BR>
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
@@ -41,7 +41,8 @@ Regras de Negócio moldam o comportamento de negócio da solução na geração 
 
 **Desafio-4 - Desenvolvimento do Backlog da Solução**<BR>
 O Backlog é uma lista com todas as funcionalidades da solução, elas devem estar agrupadas por temas e priorizadas. <BR>
-[Exemplos Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
+[Exemplo Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
 **Desafio-5 – Elaboração do Plano de Release**<BR>
-Plano de Release mostra como a solução será construida e entregue as versões.
+Plano de Release mostra como a solução será construida e entregue ao longo do tempo.
+[Template do Plano de Release](http://www.etecnologia.com.br/jornada/projeto-ihf/PlanodeReleaseTemplatev1.pdf) <BR>
